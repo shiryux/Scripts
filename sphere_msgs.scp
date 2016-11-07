@@ -214,6 +214,7 @@ EMOTE_DEF_UNICODE	0
 //healing_who					"you"
 //healing_witem					"Use a bandage"
 //herding_ltarg					"You lost your target!"
+//herding_canseelos				"You can't see your target"
 //herding_nocrook				"You lost your crook!"
 //herding_success				"The animal goes where it is instructed"
 //hiding_revealed				"You have been revealed"

@@ -52,6 +52,7 @@ scripts/stones/towns/
 scripts/npcs/
 scripts/speech/
 scripts/sphere_spawns.scp
+scripts/spells/
 scripts/sphere_spells.scp
 
 // Insert custom files here //
