@@ -15,6 +15,7 @@ VERSION=0.56c
 [ITEMDEF 02]
 DEFNAME=i_ankh
 RESOURCES=100 i_rock_plain
+TYPE=t_shrine
 CATEGORY=Decoration - Virtues
 SUBSECTION=Ankhs
 DESCRIPTION=Ankh (w) 1/2
